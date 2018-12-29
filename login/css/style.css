@@ -1,0 +1,58 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+.header {
+    padding: 30px;
+    font-size: 40px;
+    color: white; 
+    text-align: center;
+    background: #212121;
+    opacity: 0.9;
+}
+
+.main {
+    color: white;
+    background-color: #212121;
+    margin-top: 20px;
+    padding: 20px;
+    opacity: 0.9;
+    text-align: center;
+}
+
+.btn {
+    color: white;
+    background-color: #212121;
+    border-color: white;
+    height: 50px;
+    width: 200px;   
+}
+
+.btn:hover {
+    background-color: white;
+    color: black;
+}
+
+.bttn {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.input {
+    padding: 15px;
+}
